@@ -1,0 +1,20 @@
+{
+  "name": "temp_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "config": "^3.2.3",
+    "express": "^4.17.1",
+    "joy": "^0.1.1",
+    "mongoose": "^5.7.3",
+    "mysql": "^2.17.1"
+  }
+}
